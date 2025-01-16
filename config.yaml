@@ -1,0 +1,8 @@
+server_url: http://localhost:4723
+capabilities:
+  platformName: Android
+  platformVersion: "14.0"
+  deviceName: Pixel 9 Pro API 34
+  browserName: Chrome
+  automationName: UiAutomator2
+  udid: emulator-5554
